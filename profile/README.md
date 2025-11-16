@@ -22,7 +22,7 @@ As part of the dissemination of the work, the group presented [an abstract](http
 
 ## Appendix
 
-### Valid Turkic treebanks (v2.14)
+### Valid Turkic treebanks (v2.17)
 
 - Azerbaijani (1)
     - [UD_Azerbaijani-TueCL](https://github.com/UniversalDependencies/UD_Azerbaijani-TueCL)
@@ -38,7 +38,7 @@ As part of the dissemination of the work, the group presented [an abstract](http
     - [UD_Ottoman_Turkish-DUDU](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-DUDU)
 - Tatar (1)
     - [UD_Tatar-NMCTT](https://github.com/UniversalDependencies/UD_Tatar-NMCTT)
-- Turkish (9)
+- Turkish (10)
     - [UD_Turkish-Atis](https://github.com/UniversalDependencies/UD_Turkish-Atis)
     - [UD_Turkish-BOUN](https://github.com/UniversalDependencies/UD_Turkish-BOUN)
     - [UD_Turkish-FrameNet](https://github.com/UniversalDependencies/UD_Turkish-FrameNet)
@@ -48,9 +48,17 @@ As part of the dissemination of the work, the group presented [an abstract](http
     - [UD_Turkish-PUD](https://github.com/UniversalDependencies/UD_Turkish-PUD)
     - [UD_Turkish-Penn](https://github.com/UniversalDependencies/UD_Turkish-Penn)
     - [UD_Turkish-Tourism](https://github.com/UniversalDependencies/UD_Turkish-Tourism)
+    - [UD_Turkish-TueCL](https://github.com/UniversalDependencies/UD_Turkish-TueCL)
+- Turkish English (1)
+    - [UD_Turkish_English-BUTR](https://github.com/UniversalDependencies/UD_Turkish_English-BUTR) 
 - Turkish German (1)
     - [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)
 - Uyghur (1)
     - [UD_Uyghur-UDT](https://github.com/UniversalDependencies/UD_Uyghur-UDT)
+- Uzbek (3)
+    - [UD_Uzbek-UzUDT](https://github.com/UniversalDependencies/UD_Uzbek-UzUDT)
+    - [UD_Uzbek-TueCL](https://github.com/UniversalDependencies/UD_Uzbek-TueCL)
+    - [UD_Uzbek-UT](https://github.com/UniversalDependencies/UD_Uzbek-UT)
+
 - Yakut (1)
     - [UD_Yakut-YKTDT](https://github.com/UniversalDependencies/UD_Yakut-YKTDT)
