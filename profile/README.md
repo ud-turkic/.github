@@ -6,7 +6,7 @@ The main aim of the **UD Turkic Group** is to harmonize the annotations of the e
 
 ## Background
 
-Currently, UD has 20 treebanks representing several Turkic languages, 9 of which have Turkish language annotations. The annotations of these treebanks may vary considerably both at the level of morphology (lemmatization, segmentation, POS tags) and of syntax (labels of syntactic relations). The two main reasons for the differences are that **(i)** the exact function, grammatical behavior, and/or analysis of certain structures or phenomena is not known at present; **(ii)** certain constructions are analyzed differently due to the different views available in the linguistic literature.
+Currently, UD has 25 treebanks representing several Turkic languages, 14 of which have Turkish language annotations. The annotations of these treebanks may vary considerably both at the level of morphology (lemmatization, segmentation, POS tags) and of syntax (labels of syntactic relations). The two main reasons for the differences are that **(i)** the exact function, grammatical behavior, and/or analysis of certain structures or phenomena is not known at present; **(ii)** certain constructions are analyzed differently due to the different views available in the linguistic literature.
 
 ## History
 
