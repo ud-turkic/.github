@@ -18,6 +18,7 @@ As part of the dissemination of the work, the group presented [an abstract](http
 
 - [General repository](https://github.com/ud-turkic/general)
 - [Dissemination repository](https://github.com/ud-turkic/dissemination)
+- [Parallel repository](https://github.com/ud-turkic/parallel)
 - [UD Turkic Workshop 2023 repository](https://github.com/ud-turkic/udtw23)
 - [UD Turkic Workshop 2025 repository](https://github.com/ud-turkic/udtw25)
 
